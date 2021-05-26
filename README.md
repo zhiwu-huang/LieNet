@@ -11,7 +11,8 @@ Note that the copyright of the manopt toolbox is reserved by https://www.manopt.
 Step1: Place the G3D LieGroup data under the folder "./data/g3d/". The G3D LieGroup data can be downloaded from https://data.vision.ee.ethz.ch/zzhiwu/ManifoldNetData/LieData/G3D_Lie_data.zip
 
 Step2: Launch lienet_g3d.m for a simple example.
-_
+
+
 Should you find any bugs, please contact me via zhiwu.huang@vision.ee.ethz.ch
 
 
