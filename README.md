@@ -8,7 +8,7 @@ Note that the copyright of the manopt toolbox is reserved by https://www.manopt.
 
 ## Usage:
 
-Step1: Place the <a href="https://data.vision.ee.ethz.ch/zzhiwu/ManifoldNetData/LieData/G3D_Lie_data.zip"> G3D LieGroup data </a> under the folder "./data/g3d/". 
+Step1: Place the <a href="https://data.vision.ee.ethz.ch/zzhiwu/ManifoldNetData/LieData/G3D_Lie_data.zip"> G3D </a> LieGroup data under the folder "./data/g3d/". 
 
 Step2: Launch lienet_g3d.m for a simple example.
 
